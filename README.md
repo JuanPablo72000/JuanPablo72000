@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, un apasionado por el 
 * 💻 Mi stack principal se enfoca en el ecosistema **Java** (desarrollo con **JavaFX**) y bases de datos relacionales (**MySQL**, SQL Server).
 * 🏆 Entusiasta de la resolución de problemas y participante en programación competitiva (equipo "Los Oswaldinos" - *ICPC Gran Premio de México 2024*).
 * 📝 Fiel usuario de **Obsidian** para la gestión del conocimiento y documentación técnica.
-* 📫 Cómo contactarme: **[juanpablorodriguezhurtado@gmail.com]** o en **[LinkedIn]([tu-link-aqui](https://www.linkedin.com/in/juan-pablo-rodriguez-hurtado/))**
+* 📫 Cómo contactarme: **[juanpablorodriguezhurtado@gmail.com]** o en **[LinkedIn]([(https://www.linkedin.com/in/juan-pablo-rodriguez-hurtado/)])**
 
 ---
 
