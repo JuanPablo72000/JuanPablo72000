@@ -36,6 +36,8 @@ Aplicación de escritorio desarrollada con **JavaFX** y la API de **JavaMail**. 
 
 ### 📊 Estadísticas de GitHub
 
+[Estadísticas de JuanPablo](https://github-readme-stats.vercel.app/api?username=JuanPablo72000&show_icons=true&theme=vue-dark)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanPablo72000&show_icons=true&theme=radium&v=555" />
 </div>
