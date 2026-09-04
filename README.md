@@ -4,9 +4,9 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, un apasionado por el 
 
 ### 🚀 Sobre mí
 
-* 🎓 Actualmente cursando la carrera de **Ingeniería en Sistemas Computacionales** en el Instituto Tecnológico de La Laguna (GPA: 93.79/100)[cite: 1].
-* 💻 Mi stack principal se enfoca en el ecosistema **Java** (desarrollo nativo con **JavaFX**, **Jakarta Mail**, **Gradle**) y bases de datos (**MySQL**, **SQLite**)[cite: 1].
-* 🏆 Entusiasta de la resolución de problemas y participante en programación competitiva (equipo "Los Oswaldinos" - *ICPC Gran Premio de México 2024* y participante en la *Coding Cup TecNM 2025*)[cite: 1].
+* 🎓 Actualmente cursando la carrera de **Ingeniería en Sistemas Computacionales** en el Instituto Tecnológico de La Laguna (GPA: 93.79/100).
+* 💻 Mi stack principal se enfoca en el ecosistema **Java** (desarrollo nativo con **JavaFX**, **Jakarta Mail**, **Gradle**) y bases de datos (**MySQL**, **SQLite**).
+* 🏆 Entusiasta de la resolución de problemas y participante en programación competitiva (equipo "Los Oswaldinos" - *ICPC Gran Premio de México 2024* y participante en la *Coding Cup TecNM 2025*).
 * 📝 Fiel usuario de **Obsidian** para la gestión del conocimiento y documentación técnica.
 * 📫 Cómo contactarme: **[juanpablorodriguezhurtado@gmail.com]** o en **[LinkedIn](https://www.linkedin.com/in/juan-pablo-rodriguez-hurtado/)**
 
@@ -40,16 +40,16 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, un apasionado por el 
 ### 📂 Proyectos Destacados
 
 #### 📧 EverMail (Antes AirSend) - Cliente de Correo Electrónico
-Aplicación de escritorio nativa desarrollada con **Java**, **JavaFX**, **Jakarta Mail** y **SQLite**[cite: 1]. 
-* Soporta protocolos IMAP/SMTP y autenticación segura **OAuth 2.0** para cuentas de Google y Microsoft[cite: 1]. 
-* Arquitectura estricta por capas que desacopla la interfaz gráfica de la lógica de negocio[cite: 1].
-* Procesamiento asíncrono para descarga de adjuntos y sincronización sin bloquear el hilo principal[cite: 1].
-* Cifrado local de credenciales, cuerpos de correos y adjuntos en reposo[cite: 1].
+Aplicación de escritorio nativa desarrollada con **Java**, **JavaFX**, **Jakarta Mail** y **SQLite**. 
+* Soporta protocolos IMAP/SMTP y autenticación segura **OAuth 2.0** para cuentas de Google y Microsoft. 
+* Arquitectura estricta por capas que desacopla la interfaz gráfica de la lógica de negocio.
+* Procesamiento asíncrono para descarga de adjuntos y sincronización sin bloquear el hilo principal.
+* Cifrado local de credenciales, cuerpos de correos y adjuntos en reposo.
 * [Ver código fuente](https://github.com/JuanPablo72000/Proyecto_01_TopicosAProgramacion)
 
 #### 🧮 Calculadora Científica JavaFX
-Calculadora de escritorio de alto rendimiento que utiliza análisis avanzado de expresiones matemáticas[cite: 1].
-* Desarrollada con **Java** y **JavaFX** bajo una arquitectura modular diseñada para soportar matemáticas simbólicas a futuro (sumatorias y derivadas)[cite: 1].
+Calculadora de escritorio de alto rendimiento que utiliza análisis avanzado de expresiones matemáticas.
+* Desarrollada con **Java** y **JavaFX** bajo una arquitectura modular diseñada para soportar matemáticas simbólicas a futuro (sumatorias y derivadas).
 
 ---
 
