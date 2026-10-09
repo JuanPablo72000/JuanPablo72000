@@ -14,7 +14,7 @@
 - 💻 **Enfoque principal**: Ecosistema **Java** (JavaFX, Jakarta Mail, Gradle), bases de datos relacionales y arquitectura de software por capas.
 - 🏆 **Programación Competitiva**: Miembro del equipo *"Los Oswaldinos"* (ICPC Gran Premio de México) y participante en la *Coding Cup TecNM*.
 - 🧠 **Gestión del conocimiento**: Usuario fiel de **Obsidian** para documentación técnica y segundo cerebro digital.
-- 📫 **Contacto**: [juanpablorodriguezhurtado@gmail.com](mailto:juanpablorodriguezhurtado@gmail.com) | [LinkedIn](https://www.linkedin.com/in/juan-pablo-rodriguez-hurtado/) | [Devpost](https://devpost.com/juanpablorodriguezhurtado)
+- 📫 **Contacto**: [juanpablorodriguezhurtado@gmail.com](mailto:juanpablorodriguezhurtado@gmail.com) | [LinkedIn](https://www.linkedin.com/in/juan-pablo-rodriguez-hurtado/) | [Devpost](https://devpost.com/JuanPablo72)
 
 ---
 
